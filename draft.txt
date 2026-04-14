@@ -1,0 +1,12 @@
+3 Ways of using CSS
+
+1. Inline CSS - Inside HTML Tags
+    for example: <p style="color: white">Hello World</p>
+2. Internal CSS
+3. External CSS
+
+
+DRY Principle at KISS Principle
+
+Dont Repeat Yourself
+Keep It Short St**id
